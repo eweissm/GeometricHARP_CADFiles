@@ -2,7 +2,7 @@
 
 Presented here are all the CAD files for the HARPs which derive their anisotropy from geometry alone. 
 
-The ribbed tube uses 2 files:
+### The ribbed tube uses 2 files:
 
 |--RibbedTube_mold.sldprt
 
@@ -11,7 +11,7 @@ The ribbed tube uses 2 files:
 A 2 mm brass rod is used as the mandrel
 
 
-The 4 point star uses 3 files:
+### The 4 point star uses 3 files:
 
 |--StarTube_mold_bottom_5_21_4POINT.sldprt
 
@@ -21,7 +21,7 @@ The 4 point star uses 3 files:
 
 
 
-The 5 point star uses 3 files:
+### The 5 point star uses 3 files:
 
 |--StarTube_mold_bottom_5_21.sldprt
 
@@ -31,7 +31,7 @@ The 5 point star uses 3 files:
 
 
 
-The 4 point star uses 3 files:
+### The 4 point star uses 3 files:
 
 |--StarTube_mold_bottom_5_21_6POINT.sldprt
 
